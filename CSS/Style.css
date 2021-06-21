@@ -1,0 +1,227 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+.header {
+  position: fixed;
+  top: 3.125rem;
+  font-size: 1.5625rem;
+  font-family: 'Baloo Tammudu 2', cursive;
+  display: inline-block;
+  position: relative;
+  left: 1.875rem;
+}
+
+.first {
+  height: 43.75rem;
+}
+
+.text {
+  font-size: 5.625rem;
+  font-family: 'Oswald', sans-serif;
+  color: #28B5B5;
+  margin-bottom: 0;
+}
+
+p {
+  font-size: 1.25rem;
+  font-family: 'Baloo Tammudu 2', cursive;
+}
+
+.first-box {
+  margin-top: 18.75rem;
+}
+
+.common {
+  font-size: 1.875rem;
+  color: #28B5B5;
+}
+
+.about {
+  background-color: #D4F3EF;
+}
+
+.about-text {
+  color: #63B7AF;
+  font-size: 3.75rem;
+  font-family: 'Oswald', sans-serif;
+}
+
+.head {
+  color: black;
+  font-size: 3.75rem;
+  font-family: 'Oswald', sans-serif;
+}
+
+.intro {
+  color: black;
+}
+
+.ele {
+  padding: 2.8125rem 2.8125rem;
+  margin: auto;
+  text-decoration: none;
+  color: #28B5B5;
+}
+
+.ele:hover {
+  color: #FED049;
+}
+
+.span:hover {
+  color: #FED049;
+}
+
+.skills {
+  width: 50%;
+}
+
+.wd-img {
+  width: 30%;
+}
+
+.pro-img {
+  width: 20%;
+}
+
+.tem-img {
+  width: 20%;
+}
+
+.skills {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.wd-img {
+  width: 25%;
+  float: left;
+}
+
+.pro-img {
+  width: 25%;
+  float: right;
+}
+
+.tem-img {
+  width: 25%;
+  float: left;
+}
+
+.skill-name {
+  font-size: 3.125rem;
+  color: #63B7AF;
+  font-family: 'Oswald', sans-serif;
+}
+
+.link-1 {
+  position: relative;
+  left: 3.125rem;
+}
+
+.link-2 {
+  position: relative;
+  right: 3.125rem;
+}
+
+.link-3 {
+  position: relative;
+  left: 3.125rem;
+}
+
+hr {
+  height: 0px;
+  width: 15%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  border-color: #DEEDF0;
+  margin: 100px auto 10px auto;
+}
+
+.contact {
+  margin: 100px auto 300px auto;
+}
+
+.contact-head {
+  font-size: 3.125rem;
+  color: #63B7AF;
+  font-family: 'Oswald', sans-serif;
+  margin: auto;
+}
+
+.contact-text {
+  color: #63B7AF;
+  font-family: 'Baloo Tammudu 2', cursive;
+}
+
+.btn {
+  background: #D4F3EF;
+  background-image: -webkit-linear-gradient(top, #D4F3EF, #63B7AF);
+  background-image: -moz-linear-gradient(top, #D4F3EF, #63B7AF);
+  background-image: -ms-linear-gradient(top, #D4F3EF, #63B7AF);
+  background-image: -o-linear-gradient(top, #D4F3EF, #63B7AF);
+  background-image: -webkit-gradient(to bottom, #D4F3EF, #63B7AF);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: 'Baloo Tammudu 2', cursive;
+  font-size: 1.25rem;
+  font-weight: 100;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 0;
+  padding-top: 5px;
+  -webkit-box-shadow: 1px 1px 1.25rem 0 #000000;
+  -moz-box-shadow: 1px 1px 1.25rem 0 #000000;
+  box-shadow: 1px 1px 1.25rem 0 #000000;
+  text-shadow: 1px 1px 1.25rem #000000;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 1.25rem;
+}
+
+.btn:hover {
+  border: solid #337FED 1px;
+  background: #B9F9FF;
+  background-image: -webkit-linear-gradient(top, #B9F9FF, #36D1C4);
+  background-image: -moz-linear-gradient(top, #B9F9FF, #36D1C4);
+  background-image: -ms-linear-gradient(top, #B9F9FF, #36D1C4);
+  background-image: -o-linear-gradient(top, #B9F9FF, #36D1C4);
+  background-image: -webkit-gradient(to bottom, #B9F9FF, #36D1C4);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.logo {
+  margin: 10px 1.25rem 30px 1.25rem;
+}
+
+.copy-right {
+  font-family: 'Baloo Tammudu 2', cursive;
+  color: #63B7AF;
+  font-size: 0.75rem;
+}
+
+.footer-logo-3 {
+  width: 1.5rem;
+}
+
+.footer-control {
+  position: relative;
+  top: 30px;
+}
+
+.footer {
+  background-color: #D4F3EF;
+  padding: 1.25rem 0 3.125rem;
+}
